@@ -10,7 +10,7 @@ Workshops
 
 PyCon Ireland in Dublin, 14th October 2013
 ------------------------------------------
-Colin Hardy https://github.com/hardyce/
+Colin Hardy https://github.com/hardyce
 
 PyCon UK in Coventry, 22nd September 2013
 -----------------------------------------
